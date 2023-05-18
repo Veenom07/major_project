@@ -8,6 +8,7 @@
         <li class="breadcrumb-item active">Dashboard</li>
     </ol>
     <div class="row">
+        <h1 class="text-center text-muted">Nothing to preview here <a href="add-category">Click here to Add Category</a></h1>
         
     </div>
 </div>
